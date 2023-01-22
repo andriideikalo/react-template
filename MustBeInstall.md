@@ -2,8 +2,9 @@
 <!-- npm install --save @emotion/react       https://www.npmjs.com/package/@emotion/react-->
 <!-- npm install --save @emotion/styled      https://emotion.sh/docs/install-->
 <!-- npm i proptypes                         https://www.npmjs.com/package/proptypes-->
-<!-- npm i jsx                               https://www.npmjs.com/package/jsx-->
-<!-- npm i clsx                              https://www.npmjs.com/package/clsx-->
+<!-- npm i jsx                               https://www.npmjs.com/package/jsx                     Набір інструментів компілятора-->
+<!-- npm i clsx                              https://www.npmjs.com/package/clsx                    служить швидшою та меншою заміною
+                                                                                              <!-- classnamesмодуля  -->
 
 <!-- npm i notiflix                          https://github.com/notiflix/Notiflix#readme           випливаючі повідомлення-->
 <!-- npm install react-icons --save          https://react-icons.github.io/react-icons/            icon react-->
