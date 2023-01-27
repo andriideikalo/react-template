@@ -1,6 +1,7 @@
 <!-- npm i -->
 <!-- npm install --save @emotion/react       https://www.npmjs.com/package/@emotion/react-->
 <!-- npm install --save @emotion/styled      https://emotion.sh/docs/install-->
+<!-- npm i styled-components                 https://www.npmjs.com/package/styled-components -->
 <!-- npm i proptypes                         https://www.npmjs.com/package/proptypes-->
 <!-- npm i jsx                               https://www.npmjs.com/package/jsx                     Набір інструментів компілятора-->
 <!-- npm i clsx                              https://www.npmjs.com/package/clsx                    служить швидшою та меншою заміною
