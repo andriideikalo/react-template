@@ -30,3 +30,5 @@ $ lodash core -o ./dist/lodash.core.js       https://github.com/lodash/lodash   
 <!--АРІ картинок                        https://pixabay.com/api/docs/ -->
 <!-- АРІ прототипів                     https://jsonplaceholder.typicode.com/          API для тестування та створення прототипів -->
 <!-- АРІ країн                          https://restcountries.com/                     інформацію про країни -->
+
+<!-- npm i react-select                 https://www.npmjs.com/package/react-select                Елементb керування Select, створений за допомогою та для ReactJS.-->
