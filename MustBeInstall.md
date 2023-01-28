@@ -7,7 +7,8 @@
 <!-- npm i clsx                              https://www.npmjs.com/package/clsx                    служить швидшою та меншою заміною
                                                                                               <!-- classnamesмодуля  -->
 
-<!-- npm i notiflix                          https://github.com/notiflix/Notiflix#readme           випливаючі повідомлення-->
+<!-- npm i notiflix                          https://github.com/notiflix/Notiflix#readme           випливаючі повідомлення додавати сповіщення до програми-->
+<!-- npm i react-toastify               https://www.npmjs.com/package/react-toastify             випливаючі повідомлення дозволяє  додавати сповіщення до програми-->
 <!-- npm install react-icons --save          https://react-icons.github.io/react-icons/            icon react-->
 <!-- npm install --save nanoid               https://github.com/ai/nanoid/blob/HEAD/README.ru.md   генератор id-->
 <!-- npm i formik                            https://www.npmjs.com/package/formik                  помічник форм-->
@@ -32,4 +33,3 @@ $ lodash core -o ./dist/lodash.core.js       https://github.com/lodash/lodash   
 <!-- АРІ країн                          https://restcountries.com/                     інформацію про країни -->
 
 <!-- npm i react-select                 https://www.npmjs.com/package/react-select                Елементb керування Select, створений за допомогою та для ReactJS.-->
-<!-- npm i react-toastify               https://www.npmjs.com/package/react-toastify             дозволяє з легкістю додавати сповіщення до програми-->
