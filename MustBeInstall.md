@@ -32,3 +32,4 @@ $ lodash core -o ./dist/lodash.core.js       https://github.com/lodash/lodash   
 <!-- АРІ країн                          https://restcountries.com/                     інформацію про країни -->
 
 <!-- npm i react-select                 https://www.npmjs.com/package/react-select                Елементb керування Select, створений за допомогою та для ReactJS.-->
+<!-- npm i react-toastify               https://www.npmjs.com/package/react-toastify             дозволяє з легкістю додавати сповіщення до програми-->
