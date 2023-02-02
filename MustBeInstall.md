@@ -38,3 +38,6 @@ $ lodash core -o ./dist/lodash.core.js       https://github.com/lodash/lodash   
 <!--npm i react-use                     https://github.com/streamich/react-use       кастомні хуки -->
 <!-- ______________ -->
 <!-- ______________ -->
+<!-- ______________ -->
+<!-- ______________ -->
+<!-- ______________ -->
