@@ -25,8 +25,6 @@ $ lodash core -o ./dist/lodash.core.js       https://github.com/lodash/lodash   
                                                                                                <!-- JavaScript, позбавляючи від клопоту роботи з масивами, числами, об’єктами, рядками тощо. Модульні методи Lodash чудово підходять для: Ітерація масивів, об’єктів і рядків Маніпулювання та тестування значень Створення складених функцій-->
 
 <!-- npm i react-loader-spinner --save       https://www.npmjs.com/package/react-loader-spinner     очікування перед завантаженням даних-->
-<!-- ______________ -->
-<!-- ______________ -->
 
 <!--АРІ картинок                        https://pixabay.com/api/docs/ -->
 <!-- АРІ прототипів                     https://jsonplaceholder.typicode.com/          API для тестування та створення прототипів -->
@@ -38,3 +36,5 @@ $ lodash core -o ./dist/lodash.core.js       https://github.com/lodash/lodash   
 <!--                https://github.com/TanStack/query    хуки для http запитів -->
 
 <!--npm i react-use                     https://github.com/streamich/react-use       кастомні хуки -->
+<!-- ______________ -->
+<!-- ______________ -->
