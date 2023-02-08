@@ -1,4 +1,5 @@
 <!-- npm i -->
+<!-- npm uninstall ________ -->
 <!-- npm install --save @emotion/react       https://www.npmjs.com/package/@emotion/react-->
 <!-- npm install --save @emotion/styled      https://emotion.sh/docs/install-->
 <!-- npm i styled-components                 https://www.npmjs.com/package/styled-components -->
