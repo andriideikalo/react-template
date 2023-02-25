@@ -46,6 +46,16 @@ $ lodash core -o ./dist/lodash.core.js       https://github.com/lodash/lodash   
 <!-- npm i react-toastify                https://www.npmjs.com/package/react-toastify                 повіщення до  програми.-->
 <!-- npm install --save react-toastify -->
 
+<!-- # Redux + Plain JS template -->
+<!-- npx create-react-app my-app --template redux
+https://redux-toolkit.js.org/introduction/getting-started
+Офіційний набір інструментів із батарейками для ефективної розробки Redux-->
+<!-- && -->
+<!-- # Redux + TypeScript template -->
+<!-- npx create-react-app my-app --template redux-typescript
+https://redux-toolkit.js.org/introduction/getting-started
+Офіційний набір інструментів із батарейками для ефективної розробки Redux-->
+
 <!-- npm i @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^6
  https://github.com/chakra-ui/chakra-ui/     &&    https://chakra-ui.com/
  Chakra UI — це проста, модульна та доступна бібліотека компонентів, яка дає вам будівельні блоки, необхідні для створення ваших програм React.-->
