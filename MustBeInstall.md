@@ -31,6 +31,7 @@ $ lodash core -o ./dist/lodash.core.js       https://github.com/lodash/lodash   
 <!-- АРІ прототипів                     https://jsonplaceholder.typicode.com/          API для тестування та створення прототипів -->
 <!-- АРІ країн                          https://restcountries.com/                     інформацію про країни -->
 <!-- API contact                        https://connections-api.herokuapp.com/docs/    API підключень-->
+<!-- Збірник API                        https://openbase.com/categories/js             Найкращі пакети для кожного завдання. Підібрані вручну, ранжовані та підкріплені показниками та оцінками користувачів-->
 
 <!-- npm i react-select                 https://www.npmjs.com/package/react-select                Елементb керування Select, створений за допомогою та для ReactJS.-->
 
